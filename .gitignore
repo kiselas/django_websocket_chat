@@ -9,3 +9,4 @@ Procfile
 __pycache__/
 static/
 nginx/
+.env
