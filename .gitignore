@@ -1,0 +1,11 @@
+.dockerignore
+db.sqlite3
+docker-compose.yml
+Dockerfile
+Dockerfile.nginx
+entrypoint.sh
+imgpj.tar
+Procfile
+__pycache__/
+static/
+nginx/

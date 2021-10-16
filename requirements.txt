@@ -32,3 +32,4 @@ urllib3==1.26.7
 zope.interface==5.4.0
 whitenoise
 gunicorn
+daphne
